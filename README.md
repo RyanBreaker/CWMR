@@ -20,11 +20,11 @@ The location at which track is serviced by the hosting Class-1 railroad to deliv
 ### Operator
 The person who is responsible for the movement of a Train through direct manipulation of operating controls.
 
-### Yardmaster
-The person having sole authority of movements into and within their respective yard.
-
 ### Restricted Speed
 Proceed prepared to stop within one-half the range of vision short of a Train, Engine, Rolling Stock, switches or derails not properly lined, opposing or converging traffic, persons or equipment on or in the foul of the track, obstructions, track defects or anything else that may require the Train to be stopped or its speed reduced. **Restricted Speed in no case is to exceed 20 MPH.**
+
+### Yardmaster
+The person having sole authority of movements into and within their respective yard.
 
 ## Jobs
 ### Whittier Switch
