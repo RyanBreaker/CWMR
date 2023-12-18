@@ -26,6 +26,16 @@ Proceed prepared to stop within one-half the range of vision short of a Train, E
 ### Yardmaster
 The person having sole authority of movements into and within their respective yard.
 
+## Whistle Signals
+```
+o = short
+- = long
+```
+| Sound | Description |
+| --- | --- |
+| `-` | Stop |
+
+
 ## Jobs
 ### Whittier Switch
 Whittier Switch takes all cars from the Interchange at East Whittier to Whittier, delivering cars to their respective industries and returning them back directly to the Interchange. This job may, with coordination with the Dispatcher, take authority of all trackage east of Whittier.
