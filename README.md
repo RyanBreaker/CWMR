@@ -30,11 +30,16 @@ The person having sole authority of movements into and within their respective y
 ```
 o = short
 - = long
-```
-| Sound | Description |
-| --- | --- |
-| `-` | Stop |
 
+o
+Train has come to a full stop.
+
+--
+Train is to start forward movement
+
+---
+Train is to start reverse movement
+```
 
 ## Jobs
 ### Whittier Switch
