@@ -5,7 +5,7 @@ The Canton & West Marble Railroad (CWMR) is a fictional short-line transition-er
 The goal of this railroad is semi-serious with the goal of a fun and socially casual yet realistic operation.
 
 ## Operations
-All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. Regardless, trains must always run only as far as authorized with their given order their current order as given by the Dispatcher regardless of system used.
+All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. Regardless, trains must always run only as far as authorized by their current order as given by the Dispatcher regardless of system used.
 
 ## Definitions
 ### Conductor
