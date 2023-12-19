@@ -4,6 +4,9 @@ The Canton & West Marble Railroad (CWMR) is a fictional short-line transition-er
 
 The goal of this railroad is semi-serious with the goal of a fun and socially casual yet realistic operation.
 
+## Operations
+All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. Regardless, trains must always run only as far as authorized with their given order their current order as given by the Dispatcher regardless of system used.
+
 ## Definitions
 ### Conductor
 The person who is in charge of the movement of a Train.
@@ -12,7 +15,7 @@ The person who is in charge of the movement of a Train.
 Track that must not be occupied or fouled without authority of the Dispatcher. All mainline and passing sidings trackage is considered Controlled Track.
 
 ### Dispatcher
-The person having sole authority to issue orders and instructions governing the operation of Trains and whose name is on the Dispatcher Board.
+The person having sole authority to issue orders and instructions governing the operation of Trains.
 
 ### Interchange
 The location at which track is serviced by the hosting Class-1 railroad to deliver cars to industries along CWMR's trackage and take cars away from industries along CWMR's trackage back to the Interchange.
@@ -35,18 +38,24 @@ o
 Train has come to a full stop.
 
 --
-Train is to start forward movement
+Train is to start forward movement from a stop.
 
 ---
-Train is to start reverse movement
+Train is to start reverse movement from a stop.
+
+--o-
+Train is approaching crossing, with final whistle to continue until front of train has entered crossing bounds.
+
+oooo
+Call for signal.
+
+-o
+Approaching station.
+
+--o
+Approaching waiting or meeting point.
+
+oooooooooooo
+(Succession of short sounds)
+Warning to persons or livestock on or near track and in imminent danger.
 ```
-
-## Jobs
-### Whittier Switch
-Whittier Switch takes all cars from the Interchange at East Whittier to Whittier, delivering cars to their respective industries and returning them back directly to the Interchange. This job may, with coordination with the Dispatcher, take authority of all trackage east of Whittier.
-
-### Bryson Switch
-Bryson Switch acts as the Bryson Yardmaster and takes all cars delivered to it by road trains (currently just the WB) and switches them to their respective destinations, returning those back to the yard and building the train for the return trip of the WB.
-
-### WB (Whittier-Bryson)
-The WB is a daily fast freight that carries freight cars all the way from the Interchange at East Whittier to the yard at Bryson, using the track designated by the Bryson Yardmaster.
