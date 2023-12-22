@@ -6,12 +6,16 @@ The goal of this railroad is semi-serious with the goal of a fun and socially ca
 
 ## Operations
 ### Mainline
-All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. Regardless, trains must always run only as far as authorized by their current order as given by the Dispatcher regardless of system used.
+All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. The Dispatcher must announce to all current crews if a switch of signaling systems will occur. Regardless, trains must always run only as far as authorized by their current order as given by the Dispatcher regardless of system used.
+
+Any spoken orders must be read back to the dispatcher; textual orders merely need to be verified as received.
 
 For mainline movements, the head-end of a train should be turned to face the direction of travel when practicable and shoving movements should be minimized unless where necessary to complete a job.
 
 ### Headlights & Marker Lights
-TODO
+Headlights are to always be set to bright during movement on the mainline. Headlights are to be dimmed when involved in switching operations off the mainline, approaching another moving train (with the exception of simultaneous proximity to a grade crossing), or when stationary on the mainline, e.g. waiting for a meet.
+
+When available, marker lights shall be set to red on the rear of a train. TODO: Front-end marker lights
 
 ### Engine Service
 Engines should be serviced prior to each departure and tender levels frequently be checked to avoid a stranded situation. Coal chutes and water spouts are to be returned to their stowed position after servicing.
