@@ -17,7 +17,7 @@ TODO
 Engines should be serviced prior to each departure and tender levels frequently be checked to avoid a stranded situation. Coal chutes and water spouts are to be returned to their stowed position after servicing.
 
 ### Coupling & Separating
-Coupling should ideally be performed at speeds between 2-3 mph. It is crucial to avoid speeds exceeding 5 mph, as doing so may lead to potential damage to the rolling stock being coupled.
+Coupling should ideally be performed at speeds between 2-3 mph. It is crucial to avoid coupling at speeds exceeding 5 mph, as doing so may lead to potential damage to the rolling stock being coupled.
 
 Connecting the air is unnecessary when the existing train braking potential is more than sufficient to rapidly stop the train if necessary, such as when switching light or short cuts of cars. Connecting the air is strictly otherwise required.
 
@@ -31,7 +31,7 @@ The person who is in charge of the movement of a Train.
 Track that must not be occupied or fouled without authority of the Dispatcher. All mainline and passing sidings trackage is considered Controlled Track.
 
 ### Dispatcher
-The person having sole authority to issue orders and instructions governing the operation of Trains.
+The person having sole authority to issue orders and instructions governing the operation of trains on Controlled Track.
 
 ### Interchange
 The location at which track is serviced by the hosting Class-1 railroad to deliver cars to industries along CWMR's trackage and take cars away from industries along CWMR's trackage back to the Interchange.
