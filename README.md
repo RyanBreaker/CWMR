@@ -5,7 +5,23 @@ The Canton & West Marble Railroad (CWMR) is a fictional short-line transition-er
 The goal of this railroad is semi-serious with the goal of a fun and socially casual yet realistic operation.
 
 ## Operations
+### Mainline
 All mainline operations are directly controlled by the Dispatcher. Depending on availability and workload, CTC or ABS may be used at any time. Regardless, trains must always run only as far as authorized by their current order as given by the Dispatcher regardless of system used.
+
+For mainline movements, the head-end of a train should be turned to face the direction of travel when practicable and shoving movements should be minimized unless where necessary to complete a job.
+
+### Headlights & Marker Lights
+TODO
+
+### Engine Service
+Engines should be serviced prior to each departure and tender levels frequently be checked to avoid a stranded situation. Coal chutes and water spouts are to be returned to their stowed position after servicing.
+
+### Coupling & Separating
+Coupling should ideally be performed at speeds between 2-3 mph. It is crucial to avoid speeds exceeding 5 mph, as doing so may lead to potential damage to the rolling stock being coupled.
+
+Connecting the air is unnecessary when the existing train braking potential is more than sufficient to rapidly stop the train if necessary, such as when switching light or short cuts of cars. Connecting the air is strictly otherwise required.
+
+Sufficient handbrakes must be set on cars left behind after decoupling, typically 1 being sufficient for light loads on level ground but more for heavier loads on grades.
 
 ## Definitions
 ### Conductor
